@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dalmo Buzato"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Olá! Sou estudante do bacharelado em Estudos Linguísticos: Linguística Teórica e Descritiva na Faculdade de Letras da Universidade Federal de Minas Gerais (UFMG). Fiz o curso técnico em Informática no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG), e atualmente realizo estágio de pesquisa no Max Planck Institute for Psycholinguistics, nos Países Baixos. Meus principais interesses de pesquisa são a **Linguística Teórica** (Mudança Linguística; Contato Linguístico; Linguística Evolucionária) e a **Linguística Computacional** (métodos computacionais para análises quantitativas em linguística; simulação e modelagem computacional de fenômenos linguísticos). Compreendo a linguagem como um **sistema adaptativo complexo**, e incorporo a transdisciplinaridade dos campos de pesquisa das redes e sistemas complexos à pesquisa em linguística. 
+
+Hello, I am a student of the BA in Linguistics at the Faculty of Letters of the Federal University of Minas Gerais (UFMG). I studied Informatics at the Federal Center for Technological Education of Minas Gerais (CEFET-MG), and I am currently doing a research internship at the Max Planck Institute for Psycholinguistics in the Netherlands. My main research interests are **Theoretical Linguistics** (Language Change; Language Contact; Language Evolution) and **Computational Linguistics** (computational methods for quantitative analyses in linguistics; simulation and computational modeling of linguistic phenomena). I understand language as a complex adaptive system and incorporate the transdisciplinarity of the fields of network and complex systems research into linguistics research.
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
