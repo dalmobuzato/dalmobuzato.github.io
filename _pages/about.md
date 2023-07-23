@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: 
 title: "Dalmo Buzato"
 excerpt: "About me"
 author_profile: true
