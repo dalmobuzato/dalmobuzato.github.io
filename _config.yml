@@ -231,7 +231,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: warao
     values:
       layout: single
       author_profile: true
