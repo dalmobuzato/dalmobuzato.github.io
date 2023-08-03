@@ -1,6 +1,6 @@
 ---
 title: ""
-excerpt: "<br/><img src='/images/img023.jpg' width='500' height='300'>"
+excerpt: "<img src='/images/img023.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
