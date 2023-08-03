@@ -33,7 +33,7 @@ All photographs presented were collected by the authors, or have authorization f
     <td>
       {% include archive-single.html %}
     </td>
-    {% if forloop.last or forloop.index0|divisibleby:2 %}
+    {% if forloop.index0|divisibleby:2 or forloop.last %}
       </tr>
     {% endif %}
   {% endfor %}
