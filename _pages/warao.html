@@ -26,18 +26,19 @@ All photographs presented were collected by the authors, or have authorization f
 
 <!-- Sua página web -->
 <table>
-  <tr>
-    {% for post in site.portfolio %}
-      <td>
-        {% include archive-single.html %}
-      </td>
-      {% if forloop.index|divisibleby:2 %}
-  </tr>
-  <tr>
-      {% endif %}
-    {% endfor %}
-  </tr>
+  {% for post in site.portfolio %}
+    {% if forloop.first or forloop.index0|divisibleby:2 %}
+      <tr>
+    {% endif %}
+    <td>
+      {% include archive-single.html %}
+    </td>
+    {% if forloop.last or forloop.index0|divisibleby:2 %}
+      </tr>
+    {% endif %}
+  {% endfor %}
 </table>
+
 
 
 <img src='/images/img018.jpeg' width='500' height='300'><br><br>
