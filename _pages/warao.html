@@ -24,13 +24,14 @@ All photographs presented were collected by the authors, or have authorization f
     </table>
 
 
+<!-- Sua página web -->
 <table>
   <tr>
     {% for post in site.portfolio %}
       <td>
         {% include archive-single.html %}
       </td>
-      {% if forloop.index2|divisibleby:2 %}
+      {% if forloop.index|divisibleby:2 %}
   </tr>
   <tr>
       {% endif %}
