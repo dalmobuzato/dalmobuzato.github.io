@@ -1,7 +1,7 @@
 ---
-title: "Universal Dependencies and Language Contact Annotation: Experience from Warao refugees signs in Brazil"
+title: 'Universal Dependencies and Language Contact Annotation: Experience from Warao refugees signs in Brazil'
 collection: publications
-permalink: /publication/2023-ud-warao
+permalink: /publication/buzato-ud-warao-2023
 excerpt: 'Apresentado no evento satélite 'II Universal Dependencies Brazilian Festival (UDFest-BR 2023) // Presented at the satellite event 'II Universal Dependencies Brazilian Festival (UDFest-BR 2023)''
 date: 2023-09-25 
 venue: 'Anais do XIV Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana'
