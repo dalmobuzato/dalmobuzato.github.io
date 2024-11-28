@@ -19,13 +19,13 @@ All photographs presented were collected by the authors, or have authorization f
       <td>
         {% include archive-single.html %}
       </td>
-      {% if forloop.index2|divisibleby:2 %}
+      {% if forloop.index0 != 0 and forloop.index0 | modulo: 4 == 3 %}
   </tr>
   <tr>
       {% endif %}
     {% endfor %}
   </tr>
-</table> 
+</table>
 
 
 
