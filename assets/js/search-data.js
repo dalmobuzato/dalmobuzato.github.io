@@ -515,7 +515,7 @@ ninja.data = [{
         title: 'Lattes',
         section: 'Socials',
         handler: () => {
-          window.open("http://lattes.cnpq.br/http://lattes.cnpq.br/3910104103077088", "_blank");
+          window.open("http://lattes.cnpq.br/3910104103077088", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -529,7 +529,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Dalmo-Buzato/", "_blank");
+          window.open("https://www.researchgate.net/profile/Dalmo-Buzato/", "_blank");
         },
       },{
         id: 'social-scholar',
