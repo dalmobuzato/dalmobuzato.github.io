@@ -7,7 +7,7 @@ first_name: Dalmo
 middle_name:
 last_name: Buzato
 contact_note: >
-  "Isso de ser exatamente o que se é ainda vai nos levar além". Paulo Leminski.
+  "Isso de ser exatamente o que a gente é ainda vai nos levar além". Paulo Leminski.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
