@@ -191,7 +191,6 @@ exclude:
   - _pages/cv.md
   - _pages/books.md
   - _pages/profiles.md
-  - _pages/teaching.md
   - _pages/repositories.md
   - _pages/projects.md
   - _pages/dropdown.md
