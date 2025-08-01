@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-<h3 style="color: #4b9cd3;" id="unc"><a href="https://unc.edu">UNC</a></h3>
+<h3 style="color: #4b9cd3;" id="unc">2025</h3>
 <!-- COMP 541 (Digital Logic and Computer Design) -->
 <div class="card mt-3">
   <div class="p-3">
@@ -29,7 +29,7 @@ nav_order: 6
             I roughly <strong>doubled</strong> the potential audience of COMP 541's final project simulator (speeds up build time from several minutes to seconds) by porting, along with a classmate, the original version (Windows-only) to Java (cross-platform). It is in-use in COMP 541 and maintained by me.
           </div>
           <div class="col-sm-3">
-            <a href="/projects/mips-emulator">MIPS Emulator</a>&nbsp;(<a href="https://github.com/madiali/mips-emulator">GitHub</a>)
+            <a href="/projects/mips-emulator">MIPS Emulator</a>&nbsp;(<a href="assets/pdf/bartoli-propor-2024">GitHub</a>)
           </div>
         </div>
       </li>
