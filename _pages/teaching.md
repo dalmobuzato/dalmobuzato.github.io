@@ -29,13 +29,74 @@ nav_order: 6
               Workshop de Fonologia: Homenagem à Professora Leda Bisol, Universidade Federal de Minas Gerais (UFMG). Organized by the Phonology Lab at UFMG.
           </div>
           <div class="col-sm-3">
-            <a href="/projects/mips-emulator">Slides</a>&nbsp;(<a href="../assets/pdf/talks/Workshop-Fonologia.pdf">link</a>)
+            <a>Slides</a>&nbsp;(<a href="../assets/pdf/talks/Workshop-Fonologia.pdf">link</a>)
           </div>
         </div>
       </li>
     </ul>
   </div>
 </div>
+
+<!-- ABM Complexity - SILF 2024 -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp311" class="card-title">Computational modeling and simulation in usage-based linguistics: a necessary approach</h5>
+        <h6 class="card-subtitle font-italic">2024-09-05. Universidade Federal de Minas Gerais (UFMG).</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          541
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+              7th International Symposium on Functional Linguistics (SILF), Universidade Federal de Minas Gerais (UFMG).
+          </div>
+          <div class="col-sm-3">
+            <a>Slides</a>&nbsp;(<a href="../assets/pdf/talks/SILF-ABM-2024.pdf">link</a>)
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+<!-- Datasets Warao - SILF 2024 -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp311" class="card-title">Datasets for describing emerging contact languages: the summary of ongoing research into Warao-Spanish-Portuguese contact</h5>
+        <h6 class="card-subtitle font-italic">2024-09-04. Universidade Federal de Minas Gerais (UFMG).</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          541
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+              7th International Symposium on Functional Linguistics (SILF), Universidade Federal de Minas Gerais (UFMG).
+          </div>
+          <div class="col-sm-3">
+            <a>Slides</a>&nbsp;(<a href="../assets/pdf/talks/SILF-Warao-2024.pdf">link</a>)
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
 
 <!-- COMP 311 (Computer Organization) -->
 <div class="card mt-3">
