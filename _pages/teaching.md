@@ -7,14 +7,14 @@ nav: true
 nav_order: 6
 ---
 
-<h3 style="color: #4b9cd3;" id="unc">2024</h3>
-<!-- COMP 541 (Digital Logic and Computer Design) -->
+<h3 id="unc">2024</h3>
+<!-- Em busca do contato perdido - Workshop Fonologia 2024 -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="comp311" class="card-title">Digital Logic and Computer Design</h5>
-        <h6 class="card-subtitle font-italic">Volunteer (F23, W22)</h6>
+        <h5 id="comp311" class="card-title">Em busca do contato perdido: o uso da distância de Levenshtein para identificação de contatos linguísticos remotos entre línguas amazônicas</h5>
+        <h6 class="card-subtitle font-italic">2024-12-12. Universidade Federal de Minas Gerais (UFMG).</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
@@ -26,10 +26,10 @@ nav_order: 6
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            I roughly <strong>doubled</strong> the potential audience of COMP 541's final project simulator (speeds up build time from several minutes to seconds) by porting, along with a classmate, the original version (Windows-only) to Java (cross-platform). It is in-use in COMP 541 and maintained by me.
+              Workshop de Fonologia: Homenagem à Professora Leda Bisol, Universidade Federal de Minas Gerais (UFMG). Organized by the Phonology Lab at UFMG.
           </div>
           <div class="col-sm-3">
-            <a href="/projects/mips-emulator">MIPS Emulator</a>&nbsp;(<a href="../assets/pdf/bartoli-propor-2024.pdf">GitHub</a>)
+            <a href="/projects/mips-emulator">Slides</a>&nbsp;(<a href="../assets/pdf/talks/Workshop-Fonologia.pdf">link</a>)
           </div>
         </div>
       </li>
