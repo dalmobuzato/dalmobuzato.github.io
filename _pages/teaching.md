@@ -96,9 +96,158 @@ nav_order: 6
   </div>
 </div>
 
+<!-- Bartoli - IFISC 2024 -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp311" class="card-title">Bartoli’s areal norms revisited: an agent-based modeling approach</h5>
+        <h6 class="card-subtitle font-italic">2024-06-06. IFISC (Institute for Cross-Disciplinary Physics and Complex Systems), Universitat de les Illes Balears.</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          541
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+              Sociomeeting Seminar at IFISC (Institute for Cross-Disciplinary Physics and Complex Systems), Universitat de les Illes Balears
+          </div>
+          <div class="col-sm-3">
+            <a>Slides</a>&nbsp;(<a href="../assets/pdf/talks/ABM-Bartoli-IFISC-2024.pdf">link</a>)
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+<!-- Kanoé USC 2024 -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp311" class="card-title">Os Kanoé e o amor às causas perdidas [The Kanoé and the love for 'lost causes']</h5>
+        <h6 class="card-subtitle font-italic">2024-04-01. Universidade de Santiago de Compostela.</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          541
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+              Presentation conducted in the Linguistic Typology course at the Faculty of Philology at USC.
+          </div>
+          <div class="col-sm-3">
+            <a>Slides</a>&nbsp;(<a href="../assets/pdf/talks/Kanoe-Tipoling-USC-2024.pdf">link</a>)
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<!-- DH PROPOR 2024 -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp311" class="card-title">Creating datasets for emergent contact languages preservation</h5>
+        <h6 class="card-subtitle font-italic">2024-03-12. 16th PROPOR - International Conference on Computational Processing of Portuguese.</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          541
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+              Third Workshop on Digital Humanities and Natural Language Processing - 16th International Conference on Computational Processing of Portuguese.
+              Universidade de Santiago de Compostela - CiTIUS (Centro Singular de Investigación en Tecnoloxías Intelixentes da USC)
+          </div>
+          <div class="col-sm-3">
+            <a>Slides</a>&nbsp;(<a href="../assets/pdf/talks/PROPOR-Emergent-contact-languages-2024.pdf">link</a>)
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+<!-- UFAC 2024 -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp311" class="card-title">Reflexos estruturais do contato linguístico em placas de imigrantes venezuelanos [Structural reflexes of language contact in Venezuelan immigrant signs]</h5>
+        <h6 class="card-subtitle font-italic">2024-01-12. Universidade Federal do Acre.</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          541
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+              XVI Congresso Linguagens e Identidades Amazônicas. This presentation took place during the XVI Amazon Languages ​​and Identities Congress.
+          </div>
+          <div class="col-sm-3">
+            <a>Slides</a>&nbsp;(<a href="../assets/pdf/talks/Contato-Warao-UFAC-2024.pdf">link</a>)
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<h3 id="unc">2023</h3>
+<!-- Semana Letras Fale 2023 -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp311" class="card-title"> Modelagem computacional da mudança linguística: uma análise baseada em agentes [Computational modeling of language change: an agent-based modeling approach]</h5>
+        <h6 class="card-subtitle font-italic">2023-05-17. Universidade Federal de Minas Gerais.</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          541
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+               XIII Semana da Letras, evento sediado na Faculdade de Letras da UFMG. Faculty of Languages, Literature and Linguistics of UFMG, Brazil. 
+          </div>
+          <div class="col-sm-3">
+            <a>Slides</a>&nbsp;(<a href="../assets/pdf/talks/XIII-Semana-Letras-ICABM.pdf">link</a>)
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
 
 
 <!-- COMP 311 (Computer Organization) -->
+<!-- 
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -168,10 +317,11 @@ nav_order: 6
       </li>
     </ul>
   </div>
-</div>
+</div> -->
+
 
 <!-- COMP 210 (Data Structures and Analysis) -->
-<div class="card mt-3">
+<!-- <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
@@ -206,10 +356,11 @@ nav_order: 6
       </li>
     </ul>
   </div>
-</div>
+</div> -->
+
 
 <!-- COMP 110 (Introduction to Programming and Data Science) -->
-<div class="card mt-3">
+<!-- <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
@@ -253,10 +404,10 @@ nav_order: 6
   </div>
 </div>
 
-<br>
+<br> -->
 
 <!-- ACT -->
-<h3 id="self-employed">Self-employed</h3>
+<!-- <h3 id="self-employed">Self-employed</h3>
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -302,7 +453,7 @@ nav_order: 6
       </li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <!-- Separation before Giscus comments -->
 <br>
