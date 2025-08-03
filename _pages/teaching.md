@@ -37,6 +37,38 @@ nav_order: 6
   </div>
 </div>
 
+
+
+<!-- Dataset Warao - SIF 2024 -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp311" class="card-title">Dataset para documentação do contato Warao-Português em Belo Horizonte: parâmetros de compilação de dados</h5>
+        <h6 class="card-subtitle font-italic">2024-11-07. Universidade Federal do Rio de Janeiro (UFRJ).</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          541
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+              V Seminário Internacional de Fonologia (SIF), Universidade Federal do Rio de Janeiro (UFRJ). 
+          </div>
+          <div class="col-sm-3">
+            <a>Slides</a>&nbsp;(<a href="../assets/pdf/talks/Warao-SIF-2024.pdf">link</a>)
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
 <!-- ABM Complexity - SILF 2024 -->
 <div class="card mt-3">
   <div class="p-3">
@@ -215,6 +247,7 @@ nav_order: 6
   </div>
 </div>
 
+<br>
 <h3 id="unc">2023</h3>
 <!-- Semana Letras Fale 2023 -->
 <div class="card mt-3">
